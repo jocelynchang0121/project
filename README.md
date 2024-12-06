@@ -8,7 +8,7 @@ Home Credit serves underserved clients with limited or no credit history, making
 # Key Findings from Our Analysis
 Our analysis identified that the top-performing model, XGBoost, highlighted four key predictors: Ext_Source_3, Ext_Source_2, Days_Birth, and Amt_Annuity. These factors are crucial for assessing creditworthiness. Notably, Days_Birth suggests that age could play a significant role in repayment ability, with younger individuals potentially facing more challenges in loan repayment, possibly due to being earlier in their financial journey. This finding indicates that Home Credit may want to focus more closely on these variables when evaluating loan applications to improve risk assessment and decision-making processes.
 
-![Feature Importance of Top Loan Default Predictors](images/Predictors.pdf)
+![Feature Importance of Top Loan Default Predictors](images/predictors.png)
 
 # Proposed Solution to the Business Problem
 Our solution prioritizes customer segmentation by focusing on high-creditworthy and underbanked segments identified through analysis. This targeted approach enables more efficient resource allocation and better service to underserved populations. Additionally, we aim to optimize lending models by leveraging predictive analytics to refine risk assessment processes and tailor product offerings to meet the needs of these segments. Finally, we recommend enhancing digital channels by investing in digital onboarding, which will streamline the customer experience, reduce processing costs, and improve overall efficiency in servicing new and existing clients.
