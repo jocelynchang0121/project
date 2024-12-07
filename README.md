@@ -4,7 +4,6 @@ This portfolio is a compilation of notebooks I’ve created for data analysis an
 ## Home Credit Loan Default Analysis
 This project focuses on predicting loan defaults for Home Credit, a company dedicated to financial inclusion. Using alternative data, I applied machine learning models to assess the repayment ability of underserved clients with limited credit histories, help to improve loan approval accuracy and reduce the risk of defaults.
 
-![image](./images/logo.png)
 
 ## Business Problem Overview
 Home Credit serves underserved clients with limited or no credit history, making loan repayment assessment challenging. The company collects data on clients' unique characteristics to address this. Financial impacts include a median loss of $24,412 from defaults and a median revenue loss of $23,800 from incorrect loan rejections. Both situations negatively affect operational efficiency.
