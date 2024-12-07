@@ -3,6 +3,7 @@ This portfolio is a compilation of notebooks I’ve created for data analysis an
 
 ## Home Credit Loan Default Analysis
 This project focuses on predicting loan defaults for Home Credit, a company dedicated to financial inclusion. Using alternative data, I applied machine learning models to assess the repayment ability of underserved clients with limited credit histories, help to improve loan approval accuracy and reduce the risk of defaults.
+
 ![image](./images/logo.png)
 
 ## Business Problem Overview
