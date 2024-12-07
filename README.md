@@ -22,6 +22,8 @@ Our solution would enhance financial inclusion, build customer trust, and improv
 ## My Contributions to the Project
 My contribution to the project included running multiple machine learning models, such as Logistic Regression for both with and without regularization, Artificial Neural Networks (MLP), Naive Bayes, and KNN models. I was also responsible for feature engineering to enhance model performance. Additionally, I prepared and edited the final notebook, including the creation of a Table of Contents for easy navigation. I visualized model performance through ROC-AUC curves and confusion matrices, and implemented resampling techniques to improve the model's robustness. Finally, I tested the models on the final test set and contributed to the Kaggle results submission.
 
+![image](./images/Logistic_Regression.png)
+
 ## Challenges Faced During Model Implementation
 During the modeling process, one of the challenges we encountered was the need for resampling the data. For example, with the Random Forest model, I implemented undersampling, which led to significantly better performance. The model achieved a training accuracy of 99.99% and a validation accuracy of 95.39%, indicating strong generalization without overfitting, as the drop between training and validation accuracy was only 4.6%. This performance was notably better than the majority classifier, which had an accuracy of 91.91%. In contrast, undersampling with the Decision Tree model was less effective. It showed perfect accuracy on the training set of 100 % but a drop to 90.97% on the validation set, suggesting some overfitting with a decline of 9.03% between the two sets. This discrepancy highlighted the challenges of balancing model complexity and generalization.
 
