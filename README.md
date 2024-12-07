@@ -1,6 +1,7 @@
 ## Jocelyn_portfolio
 This portfolio is a compilation of notebooks I’ve created for data analysis and exploration of machine learning algorithms. It includes a variety of projects, each showcasing different techniques and approaches. The projects are categorized based on the specific problem or algorithm explored, highlighting my ability to work with diverse datasets, apply analytical methods, and find solutions to solve real-world business problems. Each project demonstrates how data-driven insights can help address complex challenges and drive informed decision-making.
 
+![image](./images/logo.png)
 ## Home Credit Loan Default Analysis
 This project focuses on predicting loan defaults for Home Credit, a company dedicated to financial inclusion. Using alternative data, I applied machine learning models to assess the repayment ability of underserved clients with limited credit histories, help to improve loan approval accuracy and reduce the risk of defaults.
 
