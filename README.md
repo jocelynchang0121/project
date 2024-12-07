@@ -24,6 +24,8 @@ My contribution to the project included running multiple machine learning models
 
 ![image](./images/Logistic_Regression.png)
 
+![image](./images/Random_forest.png)
+
 ## Challenges Faced During Model Implementation
 During the modeling process, one of the challenges we encountered was the need for resampling the data. For example, with the Random Forest model, I implemented undersampling, which led to significantly better performance. The model achieved a training accuracy of 99.99% and a validation accuracy of 95.39%, indicating strong generalization without overfitting, as the drop between training and validation accuracy was only 4.6%. This performance was notably better than the majority classifier, which had an accuracy of 91.91%. In contrast, undersampling with the Decision Tree model was less effective. It showed perfect accuracy on the training set of 100 % but a drop to 90.97% on the validation set, suggesting some overfitting with a decline of 9.03% between the two sets. This discrepancy highlighted the challenges of balancing model complexity and generalization.
 
